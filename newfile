@@ -1,0 +1,8 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/md126p2    840G  9.8G  788G   2% /
+devtmpfs         63G     0   63G   0% /dev
+tmpfs            63G   18M   63G   1% /dev/shm
+tmpfs            63G   12M   63G   1% /run
+tmpfs            63G     0   63G   0% /sys/fs/cgroup
+/dev/md126p1    477M  133M  316M  30% /boot
+tmpfs            13G   48K   13G   1% /run/user/1001
